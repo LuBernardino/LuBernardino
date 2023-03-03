@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, Welcome to my profile !! 👋
+
+
+
+![LuBernardino's GitHub stats](https://github-readme-stats.vercel.app/api?username=lubernardino&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lubernardino&layout=compact&theme=radical)](https://github.com/lubernardino/github-readme-stats)
 
 <!--
 **LuBernardino/LuBernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
