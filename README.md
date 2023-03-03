@@ -1,5 +1,6 @@
-### Hello, Welcome to my profile !!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-##
+### <h1 align="center">Hello, Welcome to my profile !!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img height="900em" align="right" src="https://i.pinimg.com/originals/c9/5f/65/c95f65ca32b7173c7b9706442c583e15.jpg">
 
 I have a degree in architecture and am currently on a journey <br>to become a front-end developer.
 
@@ -7,7 +8,7 @@ I have a degree in architecture and am currently on a journey <br>to become a fr
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lubernardino&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubernardino&layout=compact&theme=radical">
+  <img height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubernardino&layout=compact&theme=radical">
 </div>
 
 <br>
