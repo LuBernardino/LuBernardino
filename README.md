@@ -7,8 +7,8 @@ I have a degree in architecture and am currently on a journey <br>to become a fr
 <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lubernardino&show_icons=true&theme=radical">
-  <img height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubernardino&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuBernardino&show_icons=true&theme=radical">
+  <img height="202em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuBernardino&layout=compact&theme=radical">
 </div>
 
 <br>
