@@ -2,12 +2,14 @@
 
 <img height="700em" align="right" src="https://i.pinimg.com/originals/e8/d3/72/e8d372f9fe8cfdae8f39009eb8a49a5d.jpg">
 
+<h4>📝 About me <br></h4>
 I have a degree in architecture and am currently on a journey <br>to become a front-end developer. 🤓
 
+Feel free to contact me at lubernardino@outlook.com.br
 <br>
 
 <p align="left">
-  🟪 Tools:
+  <h4>🟪 Languages and Tools:</h4>
   <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
