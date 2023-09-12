@@ -1,6 +1,6 @@
 ### <h1 align="center">Hello, Welcome to my profile !!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img height="820em" align="right" src="https://i.pinimg.com/originals/e8/d3/72/e8d372f9fe8cfdae8f39009eb8a49a5d.jpg">
+<img height="700em" align="right" src="https://i.pinimg.com/originals/e8/d3/72/e8d372f9fe8cfdae8f39009eb8a49a5d.jpg">
 
 I have a degree in architecture and am currently on a journey <br>to become a front-end developer. 🤓
 
