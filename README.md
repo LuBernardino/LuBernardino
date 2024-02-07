@@ -5,7 +5,8 @@
 <h4>📝 About me <br></h4>
 I have a degree in architecture and am currently on a journey <br>to become a front-end developer. 🤓
 
-Feel free to contact me at lubernardino@outlook.com.br
+➡➡➡ [See my portfólio](https://lubernardino.netlify.app/)
+or contact me at lubernardino@outlook.com.br 🤓
 <br>
 
 <p align="left">
